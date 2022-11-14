@@ -10,14 +10,14 @@
 
 <div>
   <h2> Descrição do Projeto </h2>
-  <p3>Esse projeto foi desenvolvido para cadeira de Introdução a Engenharia da Computação no Centro de Informática da UFPB. A proposta era desenvolver um projeto para arduino, desenvolvi então um alimentador automático para gatos, que constituia em um dispensador de ração periódico ou acionado por um botão e uma fonte de água corrente para os gatinhos. Por se tratar de um código bastante antigo eu ainda não possuia bons costumes de programação, por isso o código não esta comentado. Infelizmente não tenho fotos do projeto, apenas o código.</p3>
+  <p3>Esse projeto foi desenvolvido para cadeira de Introdução a Engenharia da Computação no Centro de Informática da UFPB. A proposta era desenvolver um projeto para arduino, desenvolvi então um alimentador automático para gatos, que era constituído por um dispensador de ração periódico ou acionado por um botão e uma fonte de água corrente para os gatinhos. Por se tratar de um código bastante antigo eu ainda não possuia bons costumes de programação, por isso o código não esta comentado. Infelizmente não tenho fotos do projeto, apenas o código.</p3>
 </div><br>
 
 <div>
   <h2> Tecnologias Utilizadas </h2>
 
  
-* [Arduino IDE(https://www.arduino.cc/en/software): IDE
+* [Arduino IDE](https://www.arduino.cc/en/software): IDE
 * [GCC](https://gcc.gnu.org/): compilador para C/C++
 * Outras: windows, webbrowser
 </div><br>
