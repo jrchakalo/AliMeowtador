@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Gerenciador de Insumos </h3>
+  <h3> AliMeowtador </h3>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -10,16 +10,16 @@
 
 <div>
   <h2> Descrição do Projeto </h2>
-  <p3>Esse projeto foi desenvolvido para cadeira de Linguagem de Programação 2 no Centro de Informática da UFPB. A proposta era desenvolver um sistema para o controle de insumos do ministério da saúde usando c++ puro e depois c++ com POO.</p3>
+  <p3>Esse projeto foi desenvolvido para cadeira de Introdução a Engenharia da Computação no Centro de Informática da UFPB. A proposta era desenvolver um projeto para arduino, desenvolvi então um alimentador automático para gatos, que constituia em um dispensador de ração periódico ou acionado por um botão e uma fonte de água corrente para os gatinhos. Por se tratar de um código bastante antigo eu ainda não possuia bons costumes de programação, por isso o código não esta comentado. Infelizmente não tenho fotos do projeto, apenas o código.</p3>
 </div><br>
 
 <div>
   <h2> Tecnologias Utilizadas </h2>
 
  
-* [VSCODE](https://code.visualstudio.com/): IDE
+* [Arduino IDE(https://www.arduino.cc/en/software): IDE
 * [GCC](https://gcc.gnu.org/): compilador para C/C++
-* Outras: linux, webbrowser
+* Outras: windows, webbrowser
 </div><br>
 
 ## Autor
@@ -29,7 +29,7 @@
 
 <div>
   <h2> Licença </h2>
-  <p3>Este projeto é licenciado pelo MIT.</p3>
+  <p3>O AliMeowtador é licenciado pelo MIT.</p3>
 </div>
 
-A licença pode ser encontrada em [LICENSE.md](https://github.com/jrchakalo/Gerenciador-de-Insumos/blob/main/LICENSE.md)
+A licença pode ser encontrada em [LICENSE.md](https://github.com/jrchakalo/AliMeowtador/blob/main/LICENSE.md)
